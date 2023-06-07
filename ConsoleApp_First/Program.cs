@@ -9,7 +9,7 @@ namespace ConsoleApp_First
             int y = 0;
             while(y <3)
             {
-                Console.WriteLine("While" + y);
+                Console.WriteLine("Shelby Thromas " + y);
                 y++;
             }
             Console.WriteLine("Loop ended"); //loopend
